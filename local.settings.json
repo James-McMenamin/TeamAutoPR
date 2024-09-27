@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
+  },
+  "Teams": {
+    "DefaultChannelId": "default-channel-id",
+    "RepositoryChannelMappings": {
+      "repo-id-1": "channel-id-1",
+      "repo-id-2": "channel-id-2",
+      "repo-id-3": "channel-id-3"
+    }
+  }
+}
